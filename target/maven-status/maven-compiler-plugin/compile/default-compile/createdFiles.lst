@@ -1,0 +1,6 @@
+XMLAnalyzer\XmlaApplication.class
+XMLAnalyzer\model\Analysis.class
+XMLAnalyzer\model\AnalysisDetails.class
+XMLAnalyzer\model\xmlUrl.class
+XMLAnalyzer\model\ApiError.class
+XMLAnalyzer\controller\AnalysisController.class
